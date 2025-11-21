@@ -12,6 +12,13 @@ body {
     height: auto;
 }
 
+.navbar-toggler{
+    color: #2b2b2b;
+    border-color: #2b2b2b;
+    position: absolute;
+    right: 1rem;
+}
+
 .navbar-collapse{
     align-items: center;
     font-weight: 700;
